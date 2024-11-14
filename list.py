@@ -109,12 +109,12 @@
 
 # 4-find duplicate element in a array and print in new array
 
-name=["apple","orange","graphs","apple","banana"]
-new=[]
-for i in name:
-    if name.count(i)>1:
-        new.append(i)
-print(new)
+# name=["apple","orange","graphs","apple","banana"]
+# new=[]
+# for i in name:
+#     if name.count(i)>1:
+#         new.append(i)
+# print(new)
 
 
 #6      -    reverse a list.
